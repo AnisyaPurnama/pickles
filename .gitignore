@@ -47,7 +47,6 @@ _ReSharper*/
 .fake/
 
 #Project files
-[Bb]uild/*
 
 #Subversion files
 .svn
